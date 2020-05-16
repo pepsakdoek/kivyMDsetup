@@ -1,0 +1,8 @@
+Ideas:
+
+Just a place to document stuff I may want to try/experiment with
+
+* Try Dialog (MDDialogs) rather than dropdown menu's to give options
+ * MDDropdown seems to be a little buggy, and if you double click it crashes, and the position is inconsistent etc
+
+Figure out how to do images
